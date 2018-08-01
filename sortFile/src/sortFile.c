@@ -107,7 +107,7 @@ int main(int argc, char *argv[]) {
 	// If the file exists and a buffer was successfully allocated,
 	// use the getline function to read the file libe by line.
 
-	printf("Assignment 6 - File Sorting Program\n");
+	printf("File Sorting Program\n");
 	printf("Enter name of file to sort: %s\n",argv[1]);
 
 
